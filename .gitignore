@@ -13,6 +13,7 @@ node_modules
 .env
 .env.*
 !.env.example
+.env.example
 
 dist
 dist-ssr
@@ -38,4 +39,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-basooka-a7ce9de0f510.json
+*basooka-a7ce9de0f510.json
+

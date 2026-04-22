@@ -54,7 +54,7 @@ function ContactPage() {
             <h2 className="mt-5 font-display text-2xl font-semibold text-foreground">Envoyer un email</h2>
             <p className="mt-1 text-sm text-muted-foreground">Pour un devis détaillé ou une demande non urgente.</p>
             <div className="mt-4 text-base font-semibold break-all text-foreground">
-              {SITE.contactEmailDisplayDemo}
+              {SITE.email}
             </div>
           </a>
         </Reveal>
